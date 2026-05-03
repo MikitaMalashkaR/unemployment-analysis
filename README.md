@@ -1,11 +1,7 @@
 # Unemployment Analysis: Germany, France, Spain & Poland (1991–2021)
 
 ## Overview
-This project explores unemployment trends in four major European economies 
-over a 30-year period. Using data from Kaggle (World Bank), the analysis 
-identifies key patterns, compares country trajectories, and links statistical 
-findings to real economic events such as the 2008 financial crisis, 
-EU enlargement, and the COVID-19 pandemic.
+This project explores unemployment trends in four major European economies over a 30-year period. Using data from Kaggle (World Bank), the analysis identifies key patterns, compares country trajectories, and links statistical findings to real economic events such as the 2008 financial crisis, EU enlargement, and the COVID-19 pandemic.  
 
 ## Key Findings
 - Germany maintained the lowest mean unemployment rate (7%) among the four European countries throughout 1991–2021.
