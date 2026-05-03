@@ -8,6 +8,7 @@ This project explores unemployment trends in four major European economies over 
 - Spain reached a peak of 26% unemployment following the 2008 financial crisis — more than twice the German and French rate.
 - Poland's sharp decline after 2004 coincides with its EU accession, which opened new labor markets and accelerated economic growth.
 - The top 10 countries by unemployment in 2021 are all developing economies, predominantly from Africa.
+- Southern EU shows the highest average unemployment rate (12.14%) among the three regions, driven by the 2010-2012 eurozone debt crisis and structural weaknesses in labor markets.
 
 **Data source:** Kaggle — Unemployment Dataset (World Bank)  
-**Tools:** Python, pandas, matplotlib
+**Tools:** Python, pandas, matplotlib, SQL
